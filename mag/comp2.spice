@@ -1,0 +1,23 @@
+* SPICE3 file created from comp2.ext - technology: sky130A
+
+X0 li_8036_258# m1_8786_n396# m1_8786_n396# li_8036_258# sky130_fd_pr__pfet_01v8 ad=0p pd=0u as=0p ps=0u w=3e+06u l=3e+06u
+X1 m1_12340_n2072# m1_13202_198# li_8036_258# li_8036_258# sky130_fd_pr__pfet_01v8 ad=0p pd=0u as=0p ps=0u w=3e+06u l=3e+06u
+X2 li_8036_258# m1_8786_n396# m1_9528_274# li_8036_258# sky130_fd_pr__pfet_01v8 ad=0p pd=0u as=0p ps=0u w=3e+06u l=3e+06u
+X3 m1_13202_198# m1_13202_198# li_8036_258# li_8036_258# sky130_fd_pr__pfet_01v8 ad=0p pd=0u as=0p ps=0u w=3e+06u l=3e+06u
+X4 VSUBS VSUBS m1_13202_198# li_14208_726# sky130_fd_pr__pfet_01v8 ad=0p pd=0u as=0p ps=0u w=1e+07u l=1.3e+06u
+X5 m1_8786_n396# VSUBS VSUBS li_7220_724# sky130_fd_pr__pfet_01v8 ad=0p pd=0u as=0p ps=0u w=1e+07u l=1.3e+06u
+X6 m1_12340_n2072# m1_12340_n2072# VSUBS VSUBS sky130_fd_pr__nfet_01v8 ad=0p pd=0u as=0p ps=0u w=3e+06u l=5e+06u
+X7 li_8036_258# m1_13202_198# m1_12958_836# li_8036_258# sky130_fd_pr__pfet_01v8 ad=0p pd=0u as=0p ps=0u w=600000u l=3e+06u
+X8 VSUBS m1_9528_274# m1_9528_274# VSUBS sky130_fd_pr__nfet_01v8 ad=0p pd=0u as=0p ps=0u w=3e+06u l=5e+06u
+X9 m1_8826_n2068# m1_8786_n396# li_8036_258# li_8036_258# sky130_fd_pr__pfet_01v8 ad=0p pd=0u as=0p ps=0u w=600000u l=3e+06u
+X10 m1_12958_836# m1_9528_274# VSUBS VSUBS sky130_fd_pr__nfet_01v8 ad=0p pd=0u as=0p ps=0u w=570000u l=5e+06u
+X11 VSUBS m1_12340_n2072# m1_8826_n2068# VSUBS sky130_fd_pr__nfet_01v8 ad=0p pd=0u as=0p ps=0u w=570000u l=5e+06u
+C0 li_8036_258# m1_13202_198# 5.28fF
+C1 li_8036_258# m1_8786_n396# 5.38fF
+C2 m1_8786_n396# VSUBS 2.18fF **FLOATING
+C3 li_8036_258# VSUBS 22.14fF **FLOATING
+C4 m1_12340_n2072# VSUBS 8.39fF **FLOATING
+C5 li_7220_724# VSUBS 7.18fF **FLOATING
+C6 li_14208_726# VSUBS 6.99fF **FLOATING
+C7 m1_13202_198# VSUBS 2.33fF **FLOATING
+C8 m1_9528_274# VSUBS 7.67fF **FLOATING
